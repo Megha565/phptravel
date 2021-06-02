@@ -5,7 +5,8 @@
 <!--   <parameter name="browser" value="chrome"></parameter> --> 
   <parameter name="url" value="https://www.phptravels.net/"></parameter>
   <classes>
-  <class name="com.assignment1.CheckPHPTravels"></class>
+  <class name="com.assignment1.CheckPHPTravels">
+    </class>
   </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="74719" started-at="2021-06-01T22:48:35 IST" finished-at="2021-06-01T22:49:50 IST">
+  <suite name="Suite" duration-ms="53803" started-at="2021-06-02T18:31:21 IST" finished-at="2021-06-02T18:32:15 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="74719" started-at="2021-06-01T22:48:35 IST" finished-at="2021-06-01T22:49:50 IST">
+    <test name="Test" duration-ms="53803" started-at="2021-06-02T18:31:21 IST" finished-at="2021-06-02T18:32:15 IST">
       <class name="com.assignment1.CheckPHPTravels">
-        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String)[pri:0, instance:com.assignment1.CheckPHPTravels@2c039ac6]" name="setup" is-config="true" duration-ms="9191" started-at="2021-06-01T22:48:35 IST" finished-at="2021-06-01T22:48:44 IST">
+        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String)[pri:0, instance:com.assignment1.CheckPHPTravels@2c039ac6]" name="setup" is-config="true" duration-ms="10549" started-at="2021-06-02T18:31:21 IST" finished-at="2021-06-02T18:31:31 IST">
           <params>
             <param index="0">
               <value>
@@ -23,15 +23,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="signupUser()[pri:0, instance:com.assignment1.CheckPHPTravels@2c039ac6]" name="signupUser" duration-ms="51284" started-at="2021-06-01T22:48:44 IST" finished-at="2021-06-01T22:49:36 IST">
+        <test-method status="PASS" signature="signupUser()[pri:0, instance:com.assignment1.CheckPHPTravels@2c039ac6]" name="signupUser" duration-ms="28731" started-at="2021-06-02T18:31:32 IST" finished-at="2021-06-02T18:32:00 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signupUser -->
-        <test-method status="PASS" signature="loginUser()[pri:0, instance:com.assignment1.CheckPHPTravels@2c039ac6]" name="loginUser" duration-ms="13470" started-at="2021-06-01T22:49:36 IST" depends-on-methods="com.assignment1.CheckPHPTravels.signupUser" finished-at="2021-06-01T22:49:49 IST">
+        <test-method status="PASS" signature="loginUser()[pri:0, instance:com.assignment1.CheckPHPTravels@2c039ac6]" name="loginUser" duration-ms="13106" started-at="2021-06-02T18:32:00 IST" depends-on-methods="com.assignment1.CheckPHPTravels.signupUser" finished-at="2021-06-02T18:32:13 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginUser -->
-        <test-method status="PASS" signature="quit()[pri:0, instance:com.assignment1.CheckPHPTravels@2c039ac6]" name="quit" is-config="true" duration-ms="591" started-at="2021-06-01T22:49:49 IST" finished-at="2021-06-01T22:49:50 IST">
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.assignment1.CheckPHPTravels@2c039ac6]" name="quit" is-config="true" duration-ms="1318" started-at="2021-06-02T18:32:13 IST" finished-at="2021-06-02T18:32:15 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->
